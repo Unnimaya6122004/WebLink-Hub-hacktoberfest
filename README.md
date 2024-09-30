@@ -1,10 +1,9 @@
 # WebLink-Hub-Hacktoberfest-24
-WebLink Hub is an open-source project for Hacktoberfest that provides quick access to useful apps and websites across categories. It simplifies discovery with concise info and direct links, making it easy for users to find the right tools. Contributors are welcome to expand the collection and enhance the platform.
-# Awesome Open Source Flutter Apps
+WebLink Hub is an open-source project designed to provide quick access to a diverse collection of useful apps and websites across multiple categories. The goal is to make it easier for users to discover essential tools for various purposes—ranging from productivity to learning, development, entertainment, and more.
 
-A curated list of awesome open source Flutter apps.
+This project is being launched as part of Hacktoberfest, an annual celebration of open-source contributions. It invites developers, learners, and enthusiasts from around the world to contribute by adding new links, organizing categories, enhancing the user interface, and improving overall functionality.
 
-All the projects added in this project are featured in [fluttergems.dev](fluttergems.dev)
+A curated list of awesome websites and web applications.
 
 ### Developer Tools
 
@@ -19,3 +18,108 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 ### Generative AI & LLMs
 
 | Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+
+
+### Productivity
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+
+### Finance
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+
+### Lifestyle
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+
+### Business
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+
+### Photo & Video
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+
+### Games & Fun
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+
+### Sports
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+
+### Food & Drink
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+
+### Books
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+
+### Anime & Manga
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+
+### Health & Fitness
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+
+### Medical
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+
+### Travel & Navigation
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+
+### Education
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+
+### Music
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+
+### Entertainment
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+
+### News & Feed
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+
+### Chat & Messaging
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+
+### Shopping & E-commerce
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+
+### Portfolio
+
+| Project    | Repo  | Description  |
+|:-----------|:------|:-------------|
+| devfolio  | [Link](https://github.com/mhmzdev/devfolio)    | Live multi-platform portfolio designed using Flutter 3.0.  |
+| nimbus    | [Link](https://github.com/david-legend/nimbus) | Nimbus is a beautiful portfolio design built using flutter |
+
