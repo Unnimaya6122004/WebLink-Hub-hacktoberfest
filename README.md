@@ -16,12 +16,14 @@ A curated list of awesome websites and web applications.
 | devtoolbox | [Link](https://github.com/PolyglotNetwork/devtoolbox) | Collection of offline utilities for developers |
 | sidekick   | [Link](https://github.com/fluttertools/sidekick)      | A simple desktop interface for tools that enhance Flutter's development experience to make it even more delightful. |
 | GitTouch   | [Link](https://github.com/git-touch/git-touch)        | An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee, built with Flutter |
+| Sentry | [Link](https://sentry.io/welcome/) | Sentry is an open-source error tracking tool that helps developers monitor and fix crashes in real time. |
 
 ### Generative AI & LLMs
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
-
+| ChatGPT | [Link](https://openai.com/chatgpt/) | ChatGPT helps you get answers, find inspiration and be more productive. |
+| You | [Link](https://you.com/) | Leverage a personal AI search agent & customized recommendations with You |
 
 ### Productivity
 
@@ -107,15 +109,20 @@ A curated list of awesome websites and web applications.
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
+| Google News | [Link](https://news.google.co.in/) | Comprehensive, up-to-date news coverage, aggregated from sources all over the world by Google News.|
+
+
 ### Chat & Messaging
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
+| WhatsApp | [Link](https://www.whatsapp.com/) | Use WhatsApp Messenger to stay in touch with friends and family. |
 
 ### Shopping & E-commerce
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
+| Amazon | [Link](https://www.amazon.in/) | Online Shopping India - Buy mobiles, laptops, cameras, books, watches, apparel, shoes and e-Gift Cards. |
 
 ### Portfolio
 
