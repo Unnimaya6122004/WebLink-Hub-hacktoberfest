@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=40&width=900&height=80&lines=Hi%20there👋,%20Welcome%20to%20WebLink%20Hub"> 
+
 # WebLink-Hub-Hacktoberfest-24
 WebLink Hub is an open-source project designed to provide quick access to a diverse collection of useful apps and websites across multiple categories. The goal is to make it easier for users to discover essential tools for various purposes—ranging from productivity to learning, development, entertainment, and more.
 
