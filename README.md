@@ -29,81 +29,97 @@ A curated list of awesome websites and web applications.
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
+| Todoist | [Link](https://todoist.com/) | Todoist is the world's favorite task manager and to-do list app. |
 
 ### Finance
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
+| Bajaj Finservice | [Link](https://www.bajajfinserv.in/) | Bajaj Finserv is India's most diversified non-banking finance company. Visit the website to learn about our products. |
 
 ### Lifestyle
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
+| Feedly | [Link](https://feedly.com/) | Feedly is the fastest way to research the topics and trends that matter to you. |
 
 ### Business
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
+| Asana | [LInk](https://asana.com/) |  Keep remote and distributed teams, and your entire organization, focused on their goals, projects, and tasks with Asana. |
 
 ### Photo & Video
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
+| Canva | [Link](https://www.canva.com/photo-editor/) | Use Canva's Free Photo Editor to edit, crop, enhance, or add effects & filters to pictures. |
 
 ### Games & Fun
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
+| CrazyGames | [Link](https://www.crazygames.com/) | CrazyGames features the latest and best free online games. |
 
 ### Sports
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
+| SAI | [LInk](https://sportsauthorityofindia.nic.in/) | Sports Authority of India (SAI) was set up as a Society registered under the Societies Registration Act 1860 |
 
 ### Food & Drink
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
+| Swiggy | [Link](https://www.swiggy.com/) | Your ultimate destination for food, groceries, and dining-out options. |
 
 ### Books
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
+| BookSwagon | [Link](https://www.bookswagon.com/) | Bookswagon is the best online bookstore in India where you can purchase all categories of books |
 
 ### Anime & Manga
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
+| HiAnime | [Link](https://hianime.to/) | HiAnime is a Free anime streaming website which you can watch English Subbed and Dubbed Anime online with No Account and Daily update. |
 
 ### Health & Fitness
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
+| TheHealthSite | [LInk](https://www.thehealthsite.com/) | Complete health guide which includes fitness, beauty, diet, yoga, weight training, pregnancy, parenting, diseases & home remedies. |
 
 ### Medical
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
+| MedlinePlus | [Link](https://medlineplus.gov/) | MedlinePlus is an online health information resource for patients and their families and friends |
 
 ### Travel & Navigation
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
+| MakeMyTrip | [Link](https://www.makemytrip.com/) | MakeMyTrip helps you book flight tickets that are affordable and customized |
 
 ### Education
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
+| Education | [Link](https://www.education.com/) | Get a learning boost with thousands of worksheets, games, lesson plans, and more from our library |
 
 ### Music
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
+| WynkMusic | [Link](https://wynk.in/music) | Wynk Music is the one-stop music app for the latest to the greatest songs that you love |
 
 ### Entertainment
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
+| JustWatch | [Link](https://www.justwatch.com/in/movies) | From seeing where to watch movies for free to keeping track of all the new movie releases, our easy-to-use guide is your go-to hub for all things movies. |
 
 ### News & Feed
 
