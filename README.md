@@ -173,8 +173,6 @@ Thanks a lot for spending your time helping WebLink-Hub grow. Thanks a lot! Keep
 </p>
 
 ![Contributors](https://contrib.rocks/image?repo=Unnimaya6122004/WebLink-Hub-hacktoberfest)
-![Contributors](https://contrib.rocks/image?repo=VedasreeM/WebLink-Hub-hacktoberfest)
-![Contributors](https://contrib.rocks/image?repo=rajchaudhary99/WebLink-Hub-hacktoberfest)
 
 <h2 align="center"> License 🛡️ </h2>
 
