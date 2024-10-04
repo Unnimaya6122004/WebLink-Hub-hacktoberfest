@@ -101,7 +101,7 @@ A curated list of awesome websites and web applications.
 |:-----------|:------|:-------------|
 | HiAnime | [Link](https://hianime.to/) | HiAnime is a Free anime streaming website which you can watch English Subbed and Dubbed Anime online with No Account and Daily update. |
 
-### Health & Fitness
+### Health & Wellness
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
