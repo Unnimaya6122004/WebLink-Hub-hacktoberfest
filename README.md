@@ -24,6 +24,15 @@ A curated list of awesome websites and web applications.
 |:-----------|:------|:-------------|
 | ChatGPT | [Link](https://openai.com/chatgpt/) | ChatGPT helps you get answers, find inspiration and be more productive. |
 | You | [Link](https://you.com/) | Leverage a personal AI search agent & customized recommendations with You |
+| MidJourney   | [MidJourney](https://www.midjourney.com/) | MidJourney is an AI-powered platform for generating artwork from text prompts. |
+
+### Open-Source Learning Platforms
+| Project Name | Link | Description |
+|--------------|------|-------------|
+| Coursera     | [Coursera](https://www.coursera.org/) | An open-source learning platform offering online courses from universities and companies. |
+| edX          | [edX](https://www.edx.org/) | Provides access to a variety of online courses from top universities. |
+
+
 
 ### Productivity
 
@@ -92,7 +101,7 @@ A curated list of awesome websites and web applications.
 |:-----------|:------|:-------------|
 | HiAnime | [Link](https://hianime.to/) | HiAnime is a Free anime streaming website which you can watch English Subbed and Dubbed Anime online with No Account and Daily update. |
 
-### Health & Fitness
+### Health & Wellness
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
