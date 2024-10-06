@@ -172,7 +172,7 @@ Thanks a lot for spending your time helping WebLink-Hub grow. Thanks a lot! Keep
   <img src="https://api.vaunt.dev/v1/github/entities/Unnimaya6122004/repositories/WebLink-Hub-hacktoberfest/contributors?format=svg&limit=54" width="600" height"250" />
 </p>
 
-![Contributors](https://contrib.rocks/image?repo=Unnimaya6122004/WebLink-Hub-hacktoberfest)
+
 
 <h2 align="center"> License 🛡️ </h2>
 
@@ -190,6 +190,8 @@ Please ensure you follow the [Code of Conduct](https://github.com/akshitagupta15
 <div align="center">
 
 ## Author
+
+![Contributors](https://contrib.rocks/image?repo=Unnimaya6122004/WebLink-Hub-hacktoberfest)
 
 [Unnimaya K](https://github.com/Unnimaya6122004)
 
