@@ -163,7 +163,13 @@ A curated list of awesome websites and web applications.
 | devfolio  | [Link](https://devfolio.co/)    | Live multi-platform portfolio designed using Flutter 3.0.  |
 | nimbus    | [Link](https://nimbusweb.me/) | Nimbus is a beautiful portfolio design built using flutter |
 
+### Coding Platform
 
+| Project Name    | Link  | Description  |
+|:-----------|:------|:-------------|
+| LeetCode  | [Link](https://leetcode.com/)  |  a coding and programming interview practice tool that helps beginners and professionals prepare for careers in technology |
+| Visual Studio Code | [Link](https://code.visualstudio.com/)  |  streamlined code editor with support for development operations like debugging, task running, and version control  |
+| HackerRank  | [Link](https://www.hackerrank.com/)  |  programming practice platform that provides competitive challenges and tests for learning skills and preparing for technology careers  |
 ## Thanks to all Contributors 💪
 
 Thanks a lot for spending your time helping WebLink-Hub grow. Thanks a lot! Keep rocking 🍻
