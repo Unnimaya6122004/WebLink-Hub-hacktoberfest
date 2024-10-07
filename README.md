@@ -198,8 +198,6 @@ Please ensure you follow the [Code of Conduct](https://github.com/akshitagupta15
 
 ## Author
 
-[Unnimaya K](https://github.com/Unnimaya6122004.png)
-
 [Unnimaya K](https://github.com/Unnimaya6122004)
 
 ###  Show some ❤️ by starring this  repository! <img src="https://imgur.com/o7ncZFp.jpg" height=35px width=35px>
