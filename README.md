@@ -135,7 +135,6 @@ A curated list of awesome websites and web applications.
 | WynkMusic | [Link](https://wynk.in/music) | Wynk Music is the one-stop music app for the latest to the greatest songs that you love |
 | Spotify | [Link](https://www.spotify.com) | Spotify is a digital music service that gives you access to millions of songs |
 
-### Entertainment
 
 ### Entertainment
 
