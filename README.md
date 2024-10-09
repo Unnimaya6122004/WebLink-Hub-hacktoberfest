@@ -178,6 +178,8 @@ A curated list of awesome websites and web applications.
 | LeetCode  | [Link](https://leetcode.com/)  |  a coding and programming interview practice tool that helps beginners and professionals prepare for careers in technology |
 | Visual Studio Code | [Link](https://code.visualstudio.com/)  |  streamlined code editor with support for development operations like debugging, task running, and version control  |
 | HackerRank  | [Link](https://www.hackerrank.com/)  |  programming practice platform that provides competitive challenges and tests for learning skills and preparing for technology careers  |
+| Replit | [Link](https://replit.com/) | Replit is an AI-powered software development & deployment platform for building, sharing, and shipping software fast. |
+
 ## Thanks to all Contributors 💪
 
 Thanks a lot for spending your time helping WebLink-Hub grow. Thanks a lot! Keep rocking 🍻
