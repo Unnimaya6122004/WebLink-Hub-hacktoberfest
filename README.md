@@ -90,6 +90,7 @@ A curated list of awesome websites and web applications.
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
 | Swiggy | [Link](https://www.swiggy.com/) | Your ultimate destination for food, groceries, and dining-out options. |
+| Zomato | [Link](https://www.zomato.com/) | Successful on-demand food delivery platform that helps users discover food places and get it delivered to their doorstep. |
 
 ### Books
 
