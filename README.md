@@ -90,6 +90,7 @@ A curated list of awesome websites and web applications.
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
 | Swiggy | [Link](https://www.swiggy.com/) | Your ultimate destination for food, groceries, and dining-out options. |
+| Zomato | [Link](https://www.zomato.com/) | Find the best restaurants,cafes and bars in India on Zomato. |
 
 ### Books
 
