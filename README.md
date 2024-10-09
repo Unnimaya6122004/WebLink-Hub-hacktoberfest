@@ -64,6 +64,7 @@ A curated list of awesome websites and web applications.
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
 | Dribbble | [LInk](https://dribbble.com/) | Get latest design for Your project. |
+| Figma | [LInk](https://www.figma.com) | Figma is the leading collaborative design tool for buliding meaningful products. |
 
 ### Photo & Video
 
