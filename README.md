@@ -141,6 +141,7 @@ A curated list of awesome websites and web applications.
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
 | JustWatch | [Link](https://www.justwatch.com/in/movies) | From seeing where to watch movies for free to keeping track of all the new movie releases, our easy-to-use guide is your go-to hub for all things movies. |
+| BookMyShow | [Link](https://in.bookmyshow.com/) | India's leading entertainment destination offering showtimes, movie tickets, reviews, trailers, concert tickets and events near you. |
 
 ### News & Feed
 
