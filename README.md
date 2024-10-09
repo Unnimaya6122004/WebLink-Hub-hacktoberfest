@@ -157,6 +157,7 @@ A curated list of awesome websites and web applications.
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
 | Amazon | [Link](https://www.amazon.in/) | Online Shopping India - Buy mobiles, laptops, cameras, books, watches, apparel, shoes and e-Gift Cards. |
+| Myntra | [Link](https://www.myntra.com/) | India's largest e-commerce store for fashion and lifestyle products. |
 
 ### Portfolio
 
