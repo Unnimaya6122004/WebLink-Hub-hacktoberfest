@@ -151,6 +151,7 @@ A curated list of awesome websites and web applications.
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
 | WhatsApp | [Link](https://www.whatsapp.com/) | Use WhatsApp Messenger to stay in touch with friends and family. |
+| Telegram | [Link](https://telegram.org/) | Telegram is a cloud-based, cross-platform, social media and instant messaging (IM) service. |
 
 ### Shopping & E-commerce
 
