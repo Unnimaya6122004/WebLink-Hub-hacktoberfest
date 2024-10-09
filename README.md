@@ -31,6 +31,7 @@ A curated list of awesome websites and web applications.
 |--------------|------|-------------|
 | Coursera     | [Coursera](https://www.coursera.org/) | An open-source learning platform offering online courses from universities and companies. |
 | edX          | [edX](https://www.edx.org/) | Provides access to a variety of online courses from top universities. |
+| Udemy       | [Udemy](https://www.udemy.com/) | Udemy is a leading destination for online courses that empowers you to grow professionally and personally. |
 
 
 
