@@ -182,6 +182,7 @@ A curated list of awesome websites and web applications.
 | Visual Studio Code | [Link](https://code.visualstudio.com/)  |  streamlined code editor with support for development operations like debugging, task running, and version control  |
 | HackerRank  | [Link](https://www.hackerrank.com/)  |  programming practice platform that provides competitive challenges and tests for learning skills and preparing for technology careers  |
 | Replit | [Link](https://replit.com/) | Replit is an AI-powered software development & deployment platform for building, sharing, and shipping software fast. |
+| GeeksforGeeks | [Link](https://www.geeksforgeeks.org/?ref=ghm) | GeeksforGeeks is a popular online platform that provides resources and tutorials for computer science students and professionals. |
 
 ## Thanks to all Contributors 💪
 
