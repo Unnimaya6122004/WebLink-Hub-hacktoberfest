@@ -156,6 +156,7 @@ A curated list of awesome websites and web applications.
 |:-----------|:------|:-------------|
 | WhatsApp | [Link](https://www.whatsapp.com/) | Use WhatsApp Messenger to stay in touch with friends and family. |
 | Telegram | [Link](https://telegram.org/) | Telegram is a cloud-based, cross-platform, social media and instant messaging (IM) service. |
+| Discord | [Link](https://discord.com/) | Discord is an instant messaging and VoIP social platform which allows communication through voice calls, video calls, text messaging, and media. |
 
 ### Shopping & E-commerce
 
@@ -163,8 +164,7 @@ A curated list of awesome websites and web applications.
 |:-----------|:------|:-------------|
 | Amazon | [Link](https://www.amazon.in/) | Online Shopping India - Buy mobiles, laptops, cameras, books, watches, apparel, shoes and e-Gift Cards. |
 | Myntra | [Link](https://www.myntra.com/) | India's largest e-commerce store for fashion and lifestyle products. |
-| Filpkart | [Link](https://www.flipkart.com/) |  Online Shopping India - Buy mobiles, laptops, cameras, books, watches, apparel, shoes and e-Gift Cards. |
-
+| Filpkart | [Link](https://www.flipkart.com/) |  Online Shopping India - Buy mobiles, laptops, cameras, books, watches, apparel, shoes and e-Gift Cards. | 
 
 
 ### Portfolio
