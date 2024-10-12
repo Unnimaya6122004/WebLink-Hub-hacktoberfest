@@ -164,6 +164,10 @@ A curated list of awesome websites and web applications.
 | nimbus    | [Link](https://nimbusweb.me/) | Nimbus is a beautiful portfolio design built using flutter |
 
 
+## How to Contribute:
+We appreciate and welcome contributions to WebLink-Hub!
+If you're interested in helping out, please refer to our  [CONTRIBUTING](./CONTRIBUTING.md)for detailed guidelines on how to get started.
+
 ## Thanks to all Contributors 💪
 
 Thanks a lot for spending your time helping WebLink-Hub grow. Thanks a lot! Keep rocking 🍻
