@@ -166,7 +166,7 @@ A curated list of awesome websites and web applications.
 
 ## How to Contribute:
 We appreciate and welcome contributions to WebLink-Hub!
-If you're interested in helping out, please refer to our  [CONTRIBUTING](./CONTRIBUTING.md)for detailed guidelines on how to get started.
+If you're interested in helping out, please refer to our  [CONTRIBUTING](./CONTRIBUTING.md) for detailed guidelines on how to get started.
 
 ## Thanks to all Contributors 💪
 
