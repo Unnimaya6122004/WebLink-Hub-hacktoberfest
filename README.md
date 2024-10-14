@@ -122,7 +122,7 @@ A curated list of awesome websites and web applications.
 |:-----------|:------|:-------------|
 | MakeMyTrip | [Link](https://www.makemytrip.com/) | MakeMyTrip helps you book flight tickets that are affordable and customized |
 
-### Education
+### Education & Skill Development
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
