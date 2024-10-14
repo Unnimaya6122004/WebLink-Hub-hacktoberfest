@@ -122,11 +122,11 @@ A curated list of awesome websites and web applications.
 |:-----------|:------|:-------------|
 | MakeMyTrip | [Link](https://www.makemytrip.com/) | MakeMyTrip helps you book flight tickets that are affordable and customized |
 
-### Education
+### Education & Skill Development
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
-| Education | [Link](https://www.education.com/) | Get a learning boost with thousands of worksheets, games, lesson plans, and more from our library |
+| Education | [Link](https://www.education.com/) | GetEducation ng boost with thousands of worksheets, games, lesson plans, and more from our library |
 
 ### Music
 
