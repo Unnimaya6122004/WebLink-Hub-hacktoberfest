@@ -97,6 +97,7 @@ A curated list of awesome websites and web applications.
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
 | BookSwagon | [Link](https://www.bookswagon.com/) | Bookswagon is the best online bookstore in India where you can purchase all categories of books |
+| ProjectGutenberg | [Link](https://www.gutenberg.org/) | Project Gutenberg is one of the oldest and most well-known digital libraries where you can access large range of books for free |
 
 ### Anime & Manga
 
