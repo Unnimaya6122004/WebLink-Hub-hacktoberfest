@@ -121,6 +121,7 @@ A curated list of awesome websites and web applications.
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
 | MakeMyTrip | [Link](https://www.makemytrip.com/) | MakeMyTrip helps you book flight tickets that are affordable and customized |
+| Goibibo | [Link](goibibo.com) | Allows users to book flights, hotels, buses, and holiday packages. |
 
 ### Education & Skill Development
 
