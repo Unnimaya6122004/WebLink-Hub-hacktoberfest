@@ -122,12 +122,15 @@ A curated list of awesome websites and web applications.
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
 | MakeMyTrip | [Link](https://www.makemytrip.com/) | MakeMyTrip helps you book flight tickets that are affordable and customized |
+| Goibibo | [Link](goibibo.com) | Allows users to book flights, hotels, buses, and holiday packages. |
 
 ### Education & Skill Development
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
 | Education | [Link](https://www.education.com/) | Get a learning boost with thousands of worksheets, games, lesson plans, and more from our library |
+| freeCodeCamp | [Link](freecodecamp.org) | Offers a comprehensive platform for learning web development and programming skills |
+| LinkedIn Learning | [Link](linkedin.com/learning) | Courses in business, technology, and creative fields with certificates |
 
 ### Music
 
