@@ -1,3 +1,4 @@
+<div style="background-color: #f0f8ff; padding: 20px;">
 <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=40&width=900&height=80&lines=Hi%20there👋,%20Welcome%20to%20WebLink%20Hub"> 
 
 # WebLink-Hub-Hacktoberfest-24
@@ -200,4 +201,5 @@ Please ensure you follow the [Code of Conduct](https://github.com/akshitagupta15
 ###  Show some ❤️ by starring this  repository! <img src="https://imgur.com/o7ncZFp.jpg" height=35px width=35px>
 
 
+</div>
 </div>
