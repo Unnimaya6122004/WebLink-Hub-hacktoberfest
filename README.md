@@ -31,6 +31,7 @@ A curated list of awesome websites and web applications.
 |--------------|------|-------------|
 | Coursera     | [Coursera](https://www.coursera.org/) | An open-source learning platform offering online courses from universities and companies. |
 | edX          | [edX](https://www.edx.org/) | Provides access to a variety of online courses from top universities. |
+| Udemy       | [Udemy](https://www.udemy.com/) | Udemy is a leading destination for online courses that empowers you to grow professionally and personally. |
 
 
 
@@ -65,6 +66,7 @@ A curated list of awesome websites and web applications.
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
 | Dribbble | [LInk](https://dribbble.com/) | Get latest design for Your project. |
+| Figma | [LInk](https://www.figma.com) | Figma is the leading collaborative design tool for buliding meaningful products. |
 
 ### Photo & Video
 
@@ -89,6 +91,7 @@ A curated list of awesome websites and web applications.
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
 | Swiggy | [Link](https://www.swiggy.com/) | Your ultimate destination for food, groceries, and dining-out options. |
+| Zomato | [Link](https://www.zomato.com/) | Find the best restaurants,cafes and bars in India on Zomato. |
 
 ### Books
 
@@ -120,24 +123,30 @@ A curated list of awesome websites and web applications.
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
 | MakeMyTrip | [Link](https://www.makemytrip.com/) | MakeMyTrip helps you book flight tickets that are affordable and customized |
+| Goibibo | [Link](goibibo.com) | Allows users to book flights, hotels, buses, and holiday packages. |
 
-### Education
+### Education & Skill Development
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
 | Education | [Link](https://www.education.com/) | Get a learning boost with thousands of worksheets, games, lesson plans, and more from our library |
+| freeCodeCamp | [Link](freecodecamp.org) | Offers a comprehensive platform for learning web development and programming skills |
+| LinkedIn Learning | [Link](linkedin.com/learning) | Courses in business, technology, and creative fields with certificates |
 
 ### Music
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
 | WynkMusic | [Link](https://wynk.in/music) | Wynk Music is the one-stop music app for the latest to the greatest songs that you love |
+| Spotify | [Link](https://www.spotify.com) | Spotify is a digital music service that gives you access to millions of songs |
+
 
 ### Entertainment
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
 | JustWatch | [Link](https://www.justwatch.com/in/movies) | From seeing where to watch movies for free to keeping track of all the new movie releases, our easy-to-use guide is your go-to hub for all things movies. |
+| BookMyShow | [Link](https://in.bookmyshow.com/) | India's leading entertainment destination offering showtimes, movie tickets, reviews, trailers, concert tickets and events near you. |
 
 ### News & Feed
 
@@ -151,12 +160,17 @@ A curated list of awesome websites and web applications.
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
 | WhatsApp | [Link](https://www.whatsapp.com/) | Use WhatsApp Messenger to stay in touch with friends and family. |
+| Telegram | [Link](https://telegram.org/) | Telegram is a cloud-based, cross-platform, social media and instant messaging (IM) service. |
+| Discord | [Link](https://discord.com/) | Discord is an instant messaging and VoIP social platform which allows communication through voice calls, video calls, text messaging, and media. |
 
 ### Shopping & E-commerce
 
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
 | Amazon | [Link](https://www.amazon.in/) | Online Shopping India - Buy mobiles, laptops, cameras, books, watches, apparel, shoes and e-Gift Cards. |
+| Myntra | [Link](https://www.myntra.com/) | India's largest e-commerce store for fashion and lifestyle products. |
+| Filpkart | [Link](https://www.flipkart.com/) |  Online Shopping India - Buy mobiles, laptops, cameras, books, watches, apparel, shoes and e-Gift Cards. | 
+
 
 ### Portfolio
 
@@ -165,6 +179,15 @@ A curated list of awesome websites and web applications.
 | devfolio  | [Link](https://devfolio.co/)    | Live multi-platform portfolio designed using Flutter 3.0.  |
 | nimbus    | [Link](https://nimbusweb.me/) | Nimbus is a beautiful portfolio design built using flutter |
 
+### Coding Platform
+
+| Project Name    | Link  | Description  |
+|:-----------|:------|:-------------|
+| LeetCode  | [Link](https://leetcode.com/)  |  a coding and programming interview practice tool that helps beginners and professionals prepare for careers in technology |
+| Visual Studio Code | [Link](https://code.visualstudio.com/)  |  streamlined code editor with support for development operations like debugging, task running, and version control  |
+| HackerRank  | [Link](https://www.hackerrank.com/)  |  programming practice platform that provides competitive challenges and tests for learning skills and preparing for technology careers  |
+| Replit | [Link](https://replit.com/) | Replit is an AI-powered software development & deployment platform for building, sharing, and shipping software fast. |
+| GeeksforGeeks | [Link](https://www.geeksforgeeks.org/?ref=ghm) | GeeksforGeeks is a popular online platform that provides resources and tutorials for computer science students and professionals. |
 
 ## How to Contribute:
 We appreciate and welcome contributions to WebLink-Hub!
@@ -179,6 +202,7 @@ Thanks a lot for spending your time helping WebLink-Hub grow. Thanks a lot! Keep
 </p>
 
 ![Contributors](https://contrib.rocks/image?repo=Unnimaya6122004/WebLink-Hub-hacktoberfest)
+
 
 <h2 align="center"> License 🛡️ </h2>
 
