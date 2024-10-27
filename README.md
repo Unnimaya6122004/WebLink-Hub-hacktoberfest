@@ -52,6 +52,7 @@ A curated list of awesome websites and web applications.
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
 | Feedly | [Link](https://feedly.com/) | Feedly is the fastest way to research the topics and trends that matter to you. |
+|Headspace | [Link](https://www.headspace.com/) | Headspace provides guided meditation, sleep tips, and mindfulness exercises for a balanced lifestyle. |
 
 ### Business
 
@@ -97,7 +98,7 @@ A curated list of awesome websites and web applications.
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
 | BookSwagon | [Link](https://www.bookswagon.com/) | Bookswagon is the best online bookstore in India where you can purchase all categories of books |
-| ProjectGutenberg | [Link](https://www.gutenberg.org/) | Project Gutenberg is one of the oldest and most well-known digital libraries where you can access large range of books for free |
+| Project Gutenberg | [Link](https://www.gutenberg.org/) | A library of over 60,000 free eBooks, including many classics available in the public domain. |
 
 ### Anime & Manga
 
