@@ -1,11 +1,3 @@
-<style>
-  body {
-    background-color: #f0f8ff; /* Replace this color code with any color you prefer */
-  }
-</style>
-
-
-
 <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=40&width=900&height=80&lines=Hi%20there👋,%20Welcome%20to%20WebLink%20Hub"> 
 
 # WebLink-Hub-Hacktoberfest-24
