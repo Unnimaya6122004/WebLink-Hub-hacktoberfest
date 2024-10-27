@@ -51,7 +51,7 @@ A curated list of awesome websites and web applications.
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
 | Feedly | [Link](https://feedly.com/) | Feedly is the fastest way to research the topics and trends that matter to you. |
-| Calm | [Link](https://www.calm.com/) | Calm offers mindfulness and meditation resources for a healthier, stress-free lifestyle. |
+|Headspace | [Link](https://www.headspace.com/) | Headspace provides guided meditation, sleep tips, and mindfulness exercises for a balanced lifestyle. |
 
 ### Business
 
