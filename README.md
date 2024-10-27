@@ -1,4 +1,3 @@
-<div style="background-color: #f0f8ff; padding: 20px;">
 <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=40&width=900&height=80&lines=Hi%20there👋,%20Welcome%20to%20WebLink%20Hub"> 
 
 # WebLink-Hub-Hacktoberfest-24
@@ -52,6 +51,7 @@ A curated list of awesome websites and web applications.
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
 | Feedly | [Link](https://feedly.com/) | Feedly is the fastest way to research the topics and trends that matter to you. |
+| Calm | [Link](https://www.calm.com/) | Calm offers mindfulness and meditation resources for a healthier, stress-free lifestyle. |
 
 ### Business
 
@@ -95,6 +95,7 @@ A curated list of awesome websites and web applications.
 | Project Name    | Link  | Description  |
 |:-----------|:------|:-------------|
 | BookSwagon | [Link](https://www.bookswagon.com/) | Bookswagon is the best online bookstore in India where you can purchase all categories of books |
+| Project Gutenberg | [Link](https://www.gutenberg.org/) | A library of over 60,000 free eBooks, including many classics available in the public domain. |
 
 ### Anime & Manga
 
@@ -201,5 +202,4 @@ Please ensure you follow the [Code of Conduct](https://github.com/akshitagupta15
 ###  Show some ❤️ by starring this  repository! <img src="https://imgur.com/o7ncZFp.jpg" height=35px width=35px>
 
 
-</div>
 </div>
