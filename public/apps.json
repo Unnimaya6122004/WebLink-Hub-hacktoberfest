@@ -1,14 +1,26 @@
 [
   {
     "id": 1,
-    "name": "App One",
-    "description": "This is the first app.",
-    "link": "https://example.com/app1"
+    "name": "Task Manager",
+    "description": "A productivity tool to manage tasks.",
+    "link": "https://example.com/task-manager",
+    "category": "Productivity",
+    "logo": "https://example.com/task-manager-logo.png"
   },
   {
     "id": 2,
-    "name": "App Two",
-    "description": "This is the second app.",
-    "link": "https://example.com/app2"
+    "name": "Meditation App",
+    "description": "A health app for guided meditation.",
+    "link": "https://example.com/meditation",
+    "category": "Health",
+    "logo": "https://example.com/meditation-logo.png"
+  },
+  {
+    "id": 3,
+    "name": "Music Streaming",
+    "description": "Listen to unlimited music.",
+    "link": "https://example.com/music",
+    "category": "Entertainment",
+    "logo": "https://example.com/music-logo.png"
   }
 ]
