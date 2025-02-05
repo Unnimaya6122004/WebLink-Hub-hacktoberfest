@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "App One",
+    "description": "This is the first app.",
+    "link": "https://example.com/app1"
+  },
+  {
+    "id": 2,
+    "name": "App Two",
+    "description": "This is the second app.",
+    "link": "https://example.com/app2"
+  }
+]
